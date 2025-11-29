@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823568799128",
+    "project_id": "wordgamevnvnvn",
+    "storage_bucket": "wordgamevnvnvn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823568799128:android:1dd9a13cb808283b8b47ed",
+        "android_client_info": {
+          "package_name": "com.example.my_word_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNG7f0zEzaK8RZVkQNR1t2c0QIrHZfwo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
